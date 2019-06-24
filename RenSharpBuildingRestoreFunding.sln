@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RenSharpBuildingRestoreFunding", "RenSharpBuildingRestoreFunding\RenSharpBuildingRestoreFunding.csproj", "{294D3C8D-C352-4C1F-81F0-26311004E413}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{294D3C8D-C352-4C1F-81F0-26311004E413}.Debug|x86.ActiveCfg = Debug|x86
+		{294D3C8D-C352-4C1F-81F0-26311004E413}.Debug|x86.Build.0 = Debug|x86
+		{294D3C8D-C352-4C1F-81F0-26311004E413}.Release|x86.ActiveCfg = Release|x86
+		{294D3C8D-C352-4C1F-81F0-26311004E413}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {553218C3-E30D-48B8-9091-19DF4022B4E7}
+	EndGlobalSection
+EndGlobal
